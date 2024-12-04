@@ -1,0 +1,35 @@
+package com.ty;
+
+public class Engine {
+
+	private int eid;
+
+	private int cc;
+
+	private String type;
+
+	public int getEid() {
+		return eid;
+	}
+
+	public void setEid(int eid) {
+		this.eid = eid;
+	}
+
+	public int getCc() {
+		return cc;
+	}
+
+	public void setCc(int cc) {
+		this.cc = cc;
+	}
+
+	public String getType() {
+		return type;
+	}
+
+	public void setType(String type) {
+		this.type = type;
+	}
+
+}

@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Trainer
+ *
+ */
+module JavaPrograms {
+}

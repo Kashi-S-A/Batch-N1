@@ -1,0 +1,19 @@
+package com.ty;
+
+import java.util.List;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
+public class Student {
+
+	@Id
+	private int stuId;
+	
+	private String name;
+	
+	private List<Subject> subjects;
+	
+	
+}

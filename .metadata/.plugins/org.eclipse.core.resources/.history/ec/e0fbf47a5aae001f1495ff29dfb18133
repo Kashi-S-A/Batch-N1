@@ -1,0 +1,15 @@
+package com.ty;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
+public class Review {
+
+	@Id
+	private int rid;
+	
+	private String message;
+	
+	private Product product;
+}

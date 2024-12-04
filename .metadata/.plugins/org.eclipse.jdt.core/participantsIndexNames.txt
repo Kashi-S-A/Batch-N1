@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\Users\Trainer\Adv-EB\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3941197140.index
+\Welcome-File-List\src\main\java
+C:\Users\Trainer\Adv-EB\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3388790996.index
+\ShopNow\src\main\java
+C:\Users\Trainer\Adv-EB\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1435255172.index
+\RequestDispatcherProject\src\main\java
+C:\Users\Trainer\Adv-EB\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2308778081.index
+\FirstServletProject\src\main\java
+C:\Users\Trainer\Adv-EB\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1613286339.index
+\JSP\src\main\java
+C:\Users\Trainer\Adv-EB\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3628836338.index
+\ServletProject\src\main\java

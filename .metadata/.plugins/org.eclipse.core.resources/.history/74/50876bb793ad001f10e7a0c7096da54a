@@ -1,0 +1,12 @@
+package com.ty;
+
+public class Engine {
+
+	private int eid;
+	
+	private int cc;
+	
+	private String type;
+	
+	
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app >
+	<display-name>Archetype Created Web Application</display-name>
+
+	<!-- <servlet>
+		<servlet-name>Dog</servlet-name>
+		<servlet-class>com.ty.TestServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>Dog</servlet-name>
+		<url-pattern>/demo</url-pattern>
+	</servlet-mapping> -->
+
+</web-app>

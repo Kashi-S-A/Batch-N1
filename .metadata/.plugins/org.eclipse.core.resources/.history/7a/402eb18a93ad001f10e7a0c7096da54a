@@ -1,0 +1,12 @@
+package com.ty;
+
+public class Car {
+
+	private int cid;
+	
+	private String brand;
+	
+	private double price;
+	
+	
+}

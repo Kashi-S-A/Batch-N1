@@ -1,0 +1,5 @@
+1732632576341	Extract local variable 'find'
+1732632878572	Extract local variable 'find'
+1732716980502	Extract local variable 'createQuery'
+1732717008683	Extract local variable 'resultList'
+1732803333696	Copy folder

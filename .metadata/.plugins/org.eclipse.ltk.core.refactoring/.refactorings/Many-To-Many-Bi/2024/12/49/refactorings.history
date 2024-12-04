@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;students&apos; from expression &apos;subject.getStudents()&apos;&#x0D;&#x0A;- Original project: &apos;Many-To-Many-Bi&apos;&#x0D;&#x0A;- Variable name: &apos;students&apos;&#x0D;&#x0A;- Destination method: &apos;com.ty.FetchBySubject.main(...)&apos;&#x0D;&#x0A;- Variable expression: &apos;subject.getStudents()&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;students&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ty{FetchBySubject.java" name="students" replace="true" selection="595 21" stamp="1733236543748" varType="false" version="1.0"/>
+</session>

@@ -1,0 +1,8 @@
+1731940601975	Delete element
+1731940639278	Delete element
+1731940677150	Delete element
+1731941075271	Extract local variable 'parameter'
+1731941149712	Extract local variable 'giveConnection'
+1731941301599	Extract local variable 'executeUpdate'
+1731942176447	Extract local variable 'giveConnection'
+1731942333478	Extract local variable 'executeQuery'
